@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Kevin, a frontend developer in Vietnam. 
+I love building website whenever I have an weird idea. 
+My main tech stack is React, Typescript, Redux, a little bit of framer motion, expressjs and currently studying Python! 
+I've got some pinned projects, and my favorite is tomato-timer (I make it for my friends cuz I want she to be more focus lol) 
+
+### Fun facts: 
+- I have one dog.
+- I'm a coffeholic
+- I like playing guitar, reading books (Poirot is my fav) 
 <!--
 **daboutt/daboutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
