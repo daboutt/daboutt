@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Kevin, a frontend developer in Vietnam.\ 
-I love building website whenever I have an weird idea. \
-My main tech stack is React, Typescript, Redux, a little bit of framer motion, expressjs and currently studying Python!\
-I've got some pinned projects, and my favorite is tomato-timer (I make it for my friends cuz I want she to be more focus lol)\
+I'm Kevin, a frontend developer in Vietnam.<br>
+I love building website whenever I have an weird idea. <br>
+My main tech stack is React, Typescript, Redux, a little bit of framer motion, expressjs and currently studying Python!<br>
+I've got some pinned projects, and my favorite is tomato-timer (I make it for my friends cuz I want she to be more focus lol)<br>
 
 ### Fun facts: 
 - I have one dog.
